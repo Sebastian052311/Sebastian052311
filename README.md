@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Sebastian052311/Sebastian052311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
