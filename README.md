@@ -10,3 +10,5 @@
 </ul>
 
 <h2>Proud member of Quetzales 5932</h2>
+<h3>I also know some things about Ubuntu linux distribution</h3>
+<h3>And kinda profesional with GML</h3>
