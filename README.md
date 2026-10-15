@@ -1,21 +1,30 @@
 <table width="100%">
   <tr>
     <td colspan="7" align="center" valign="middle">
-      <h1>Hey, im just a normal dev </h1>
+      <h1>Hey, jst a normal dev </h1>
     </td>
     <td colspan="5" align="center" valign="middle">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKXhOorAk3tTgO12aJt9Cyn9Sgc5VH7MT1T4QGIVq2jEt-op9X" width="200" alt="Profile illustration">
+      <img src="https://gstatic.com" width="200" alt="Profile illustration">
     </td>
   </tr>
   <tr>
     <td colspan="12" align="center">
-      <table>
+      <table width="100%">
         <tbody>
           <tr>
-            <td>
-              <a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br>
-              <a href="https://octo-ring.com/p/Sebastian052311/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/Sebastian052311/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/Sebastian052311/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br>
-              <a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a>
+            <!-- GIF Izquierdo (Caballo) -->
+            <td align="right" valign="middle" width="20%">
+              <img src="https://media.tenor.com/xirOQUrigv0AAAAM/silly-horse.gif" width="100" alt="Silly Horse GIF">
+            </td>
+            <!-- Widget de Octo Ring en el centro -->
+            <td align="center" valign="middle" width="60%">
+              <a href="https://octo-ring.com"><img src="https://octo-ring.comstatic/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br>
+              <a href="https://octo-ring.comp/Sebastian052311/prev"><img src="https://octo-ring.comstatic/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.comp/Sebastian052311/random"><img src="https://octo-ring.comstatic/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.comp/Sebastian052311/next"><img src="https://octo-ring.comstatic/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br>
+              <a href="https://octo-ring.com"><img src="https://octo-ring.comstatic/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a>
+            </td>
+            <!-- GIF Derecho (Derpy Hooves) -->
+            <td align="left" valign="middle" width="20%">
+              <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73a7d9fd-f825-401f-982a-5177aac6571f/d8p2dkz-fa84aee7-b48f-4794-92be-51419b13b49e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi83M2E3ZDlmZC1mODI1LTQwMWYtOTgyYS01MTc3YWFjNjU3MWYvZDhwMmRrei1mYTg0YWVlNy1iNDhmLTQ3OTQtOTJiZS01MTQxOWIxM2I0OWUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.i8hH3eyWux5xRr-a1UAGF8NN7Vt4MqbKYWd9Qi06cBU" width="100" alt="Derpy Hooves GIF">
             </td>
           </tr>
         </tbody>
@@ -23,15 +32,14 @@
     </td>
   </tr>
   <tr>
-    <!-- Se añade padding a los lados (izquierda y derecha) para separarlos -->
     <td colspan="4" align="center" style="padding: 0 30px;">
-      <a href="https://sebastian052311.github.io/My-page/">My personal page</a>
+      <a href="https://github.io">My personal page</a>
     </td>
     <td colspan="4" align="center" style="padding: 0 30px;">
-      <a href="https://instagram.com/horseydev.mp3?srtk=MXFibTZvcHk0YmlrZQ%3D%3D">Instagram</a>
+      <a href="https://instagram.com">Instagram</a>
     </td>
     <td colspan="4" align="center" style="padding: 0 30px;">
-      <a href="https://sebastian052311.github.io/My-page/">Technical portfolio</a>
+      <a href="https://github.io">Technical portfolio</a>
     </td>
   </tr>
 </table>
