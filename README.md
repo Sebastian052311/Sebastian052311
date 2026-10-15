@@ -2,7 +2,7 @@
 
   <tr>
     <td colspan="7" align="center" valign="middle">
-      <h1>Hey, jst a normal dev with bf </h1>
+      <h1>Hey, jst a normal dev </h1>
     </td>
     <td colspan="5" align="center" valign="middle">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKXhOorAk3tTgO12aJt9Cyn9Sgc5VH7MT1T4QGIVq2jEt-op9X"
