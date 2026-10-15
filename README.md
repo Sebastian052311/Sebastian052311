@@ -15,13 +15,13 @@
 </tr>
 
 <tr>
-    <td colspan="4" align="center">
+    <td colspan="4" align="middle">
       <a href="https://sebastian052311.github.io/My-page/">My personal page</a>
     </td>
     <td colspan="4" align="middle">
       <a href="https://instagram.com/horseydev.mp3?srtk=MXFibTZvcHk0YmlrZQ%3D%3D"> Instagram</a>
     </td>
-    <td colspan="4" align="center">
+    <td colspan="4" align="middle">
       <a href="https://sebastian052311.github.io/My-page/">Technical portfolio</a>
     </td>
     
